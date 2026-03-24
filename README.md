@@ -1,16 +1,23 @@
-## Hi there 👋
+# eduardolab02 👨‍💻
 
-<!--
-**eduardomegasmart25/eduardomegasmart25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu laboratório de código!
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- HTML/CSS/JavaScript
+- React / Node.js
+- Python
+- ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📁 Projetos
+- Em breve! 👀
+
+## 📫 Contato
+- GitHub: [@eduardomegasmart25](https://github.com/eduardomegasmart25)
+- LinkedIn: [seu-perfil]
+
+**Feito com ❤️ e ☕**
+EOF
+
+
+..
 -->
