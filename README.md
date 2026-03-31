@@ -15,7 +15,7 @@ Bem-vindo ao meu laboratório de código!
 - GitHub: [@eduardomegasmart25](https://github.com/eduardomegasmart25)
 - LinkedIn: [seu-perfil]
 
-**Feito com ❤️ e ☕**
+**Feito com ❤️ **
 EOF
 
 
