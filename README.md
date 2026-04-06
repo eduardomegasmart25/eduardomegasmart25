@@ -1,4 +1,4 @@
-# eduardolab02 👨‍💻
+# eduardolab 👨‍💻
 
 Bem-vindo ao meu laboratório de código!
 
@@ -13,10 +13,12 @@ Bem-vindo ao meu laboratório de código!
 
 ## 📫 Contato
 - GitHub: [@eduardomegasmart25](https://github.com/eduardomegasmart25)
-- LinkedIn: [seu-perfil]
+- Gmail:guilherme.tavares.ti25@gmail.com
 
 **Feito com ❤️ **
 EOF
+.^^.
+[__]
 
 
 ..
