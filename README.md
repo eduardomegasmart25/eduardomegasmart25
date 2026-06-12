@@ -1,5 +1,5 @@
 # eduardolab 👨‍💻
-prejeto-site-eletrix.vercel.app
+
 Bem-vindo ao meu laboratório de código!
 
 ## 🛠️ Tecnologias
@@ -9,7 +9,7 @@ Bem-vindo ao meu laboratório de código!
 - ...
 
 ## 📁 Projetos
-- Em breve! 👀
+prejeto-site-eletrix.vercel.app
 
 ## 📫 Contato
 - GitHub: [@eduardomegasmart25](https://github.com/eduardomegasmart25)
