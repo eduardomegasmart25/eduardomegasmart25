@@ -9,7 +9,7 @@ Bem-vindo ao meu laboratório de código!
 - ...
 
 ## 📁 Projetos
-prejeto-site-eletrix.vercel.app
+eletrixservicos.com.br
 
 ## 📫 Contato
 - GitHub: [@eduardomegasmart25](https://github.com/eduardomegasmart25)
